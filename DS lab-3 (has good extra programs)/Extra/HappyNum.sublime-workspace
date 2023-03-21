@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"println"
+			],
+			[
+				"ar",
+				"ar2"
+			],
+			[
+				"O",
+				"OddThread"
+			],
+			[
+				"ca",
+				"cases"
+			],
+			[
+				"str",
+				"strictfp"
+			],
+			[
+				"char",
+				"Character"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"m",
+				"method"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"get",
+				"getReverse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-3/Extra/SeconfLargestInArray.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-3/Extra/Array3XnumsAscending.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-3/Extra/HappyNum.java",
+		"/C/Users/Disha Vekariya/Desktop/Harshil3X.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-3/Extra/Array3Xnums.java",
+		"/C/Users/Disha Vekariya/Desktop/FirstProblem.java",
+		"/C/Users/Disha Vekariya/Desktop/MyClass.java",
+		"/C/Users/Disha Vekariya/Desktop/HarshilProblem.html",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-2/DishaToday.html",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-2/Clock.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-2/ArrayElementAddition.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-1/FactorialLoop.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-1/FactorialRecursion.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-1/DigitsInNum.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-1/PrimeDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-2/BigIntDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-2/Advance.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-2/ArrayMultiplication.java",
+		"/C/Users/Disha Vekariya/Desktop/DS Labs/DS lab-2/ReplaceInArray.java",
+		"/C/Users/Disha Vekariya/Desktop/TempKahani.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_7/EventDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_7/Deer.class",
+		"/C/Users/Disha Vekariya/Desktop/TempDeletEx2.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_9/TwoThreadRunnableDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_9/OddEvenThread.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_9/ArrayRowSummation.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_10/OccurrenceOf5Demo.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_10/Char_Word_Sentence.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_10/CopyPaste.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_4/ArrayReverce.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_4/Dimond.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_8/AccountDemoException.java",
+		"/C/Users/Disha Vekariya/Desktop/Java timeTable",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_8/Invalid_XY_Demo.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_8/Invalid_XY_Demo_2.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_8/Invalid_XY_Demo{_2.java",
+		"/C/Users/Disha Vekariya/Desktop/Kahani.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_8/TempDelet.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_6/SpiDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/JAVA/JAVA Manual Programs/Lab_7/Vegetable.java",
+		"/C/Users/Disha Vekariya/Downloads/BankAccountDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/RAO/MainRound2/ColorDisha.java",
+		"/D/imageHide/ShivaHide.java",
+		"/C/Users/Disha Vekariya/Desktop/DiyaTemp/PosNeg.c",
+		"/D/imageHide/shivaNext",
+		"/C/Users/Disha Vekariya/Desktop/RAO/MainRound2/codefestV1.0-final-algo-master/codefestV1.0-final-algo-master/problem 2/Problem 2/PadLock.java",
+		"/C/Users/Disha Vekariya/Desktop/RAO/MainRound2/PadLock.java",
+		"/C/Users/Disha Vekariya/Desktop/RAO/MainRound2/trmpdelet.java",
+		"/C/Users/Disha Vekariya/Desktop/RAO/a.java",
+		"/C/Users/Disha Vekariya/Desktop/RAO/Round2/Round2Disha.java",
+		"/C/Users/Disha Vekariya/Desktop/RAO/BubbleSort.java",
+		"/C/Users/Disha Vekariya/Desktop/RAO/Fibonacci.java",
+		"/C/Users/Disha Vekariya/Desktop/RAO/Timeconv.java",
+		"/C/Users/Disha Vekariya/Desktop/DishaVV/JAVA/JAVA Manual Programs/Lab_7/Temp.java",
+		"/C/Users/Disha Vekariya/Desktop/DishaVV/JAVA/JAVA Manual Programs/Lab_7/EventDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/DishaVV/JAVA/JAVA Manual Programs/Lab_7/TransportDemo.java",
+		"/C/Users/Disha Vekariya/Downloads/DishaTechFest/DishaPrg1.java",
+		"/C/Users/Disha Vekariya/Desktop/DishaVV/JAVA/JAVA Manual Programs/Lab_5/Time.java",
+		"/C/Users/Disha Vekariya/Downloads/prg2Dev.java",
+		"/C/Users/Disha Vekariya/Downloads/c2Dev.java",
+		"/C/Users/Disha Vekariya/Desktop/DishaVV/C File programs/TempText.txt",
+		"/C/Users/Disha Vekariya/Desktop/DishaVV/JAVA/JAVA Aud Programs/My New Extra(Doubt+Interview)/public class OneFile_TwoMainMethod_RunTimeCall_Any.java",
+		"/C/Users/Disha Vekariya/Desktop/DishaVV/JAVA/JAVA Aud Programs/ArrayDoubt.java",
+		"/C/Users/Disha Vekariya/Desktop/DishaVV/JAVA/JAVA Manual Programs/Temp.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_4/ArrayAvg.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_4/ArrayReverce.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_4/Dimond.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_5/Time.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_4/StringPyramid.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_4/Vow_Con.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/Extra C Lab Pograms/swapMaxMin.c",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Temp.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/Extra C Lab Pograms/roman_to_decimal.c",
+		"/C/Users/Disha Vekariya/Desktop/Study Material/Sem-2/Java/Java unit 3oattern.class",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_5/SentenceDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_5/EnterSentenceDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_5/EnterSentenceDemo3.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_5/BankAccountDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_5/ComplexNumDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_5/CountObjDemo.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_4/HalfDimond.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_4/StringDimond.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_5/EnterSentence.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_5/3_EnterSentence.java",
+		"/C/Users/Disha Vekariya/Desktop/dishavv/DishaJava/JAVA Manual Programs/Lab_4/ErrorCmd.java",
+		"/E/dishavv/DishaJava/JAVA Manual Programs/Lab_5/SentenceDemo.java",
+		"/E/dishavv/DishaJava/JAVA Manual Programs/Lab_4/ErrorCmd.java"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HappyNum.sublime-project",
+	"replace":
+	{
+		"height": 69.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
